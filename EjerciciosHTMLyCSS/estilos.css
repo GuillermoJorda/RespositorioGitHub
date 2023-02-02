@@ -1,0 +1,42 @@
+header {
+    background-color: greenyellow; 
+    text-align: center;
+    font-size: large;
+}
+
+nav {
+    background-color: blue;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+}
+
+.menuItem {
+    padding-right: 25%;
+}
+section {
+    background-color: chocolate;
+}
+
+article {
+    background-color: aquamarine;
+}
+
+footer {background-color: black;
+}
+
+aside {
+    background-color: beige;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: row;
+}
+
+.pie {
+    background-color: gold;
+}
+
