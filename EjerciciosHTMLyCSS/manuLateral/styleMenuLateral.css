@@ -1,0 +1,28 @@
+
+section {
+    background-color:green;
+    justify-content: left;
+    width: 20%;
+    height: 100%;
+    position: fixed;
+}
+ul {
+    margin: 2%;
+    padding: 5%;
+}
+li {
+    color: white;
+    font-size: medium;
+    list-style: none;
+    font-weight: bold;
+    padding: 5%;    
+}
+
+li:hover {
+    background-color:darkGreen;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
