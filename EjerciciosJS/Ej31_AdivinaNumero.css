@@ -1,0 +1,48 @@
+body {
+    background: rgb(215, 210, 210);
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    text-align: center;
+}
+
+.contador {
+    text-align: right;
+    font-size:500%;
+    color: red;
+    padding-right: 20%;
+}
+
+.vidas {
+    text-align: right;
+    font-size:500%;
+    color: green;
+    padding-right: 20%;
+}
+
+input {
+    width: 200px;
+    display: block;
+    margin: auto;
+}
+
+button {
+    width: 75px;
+    display: block;
+    margin: auto;
+}
+
+.resultado {
+    color: blue;
+    display: block;
+    margin: auto;
+    border: 2px blue solid;
+    padding: 1%;
+    width: 500px;
+}
+
+.enunciado {
+    text-align: center;
+}
