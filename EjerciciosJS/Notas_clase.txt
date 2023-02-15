@@ -1,0 +1,28 @@
+filter: nos devuelve un array distinto con distinta longitud
+map: aplica una función a un array y nos devuelve un array distinto con la misma longitud
+
+rendremos un ordenador que sea donde se tenga instalado el postgresSQL con el Arcgis Enterprise.
+local: enterprise / gdb
+saas: pagina web y 
+
+Ejercicio para el día 15:
+
+hacer el curriculum y subirlo al GITHUB y enviarle la url a Liber con HTLM CSS Y JAVASCRIPT (responsive, que se vea biene en el mvl)
+
+JAVASCRIPT: imprimir CV a pdf, ocultar secciones (con una flecha), que sea interactiva, formulario de contacto, 
+
+const title = document.getElementsByTagName('h1')[0];
+title.style.color = 'red';
+title.style.fontSize = '12px';
+// Quitar la claseconst title2 = document.getElementsByTagName('h2')[0];
+console.log('t2', title2);
+title2.classList.remove('correcto');
+// Añadir una claseconst title3 = document.getElementsByTagName('h2')[1];
+title3.classList.add('correcto');
+
+
+definir la clase
+instanciar 3 veces, cada una con un valor para el lado de cada cuadrado
+
+
+una frase, un boton , el numero introducido es par, el numero es impar
